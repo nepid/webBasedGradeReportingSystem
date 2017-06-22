@@ -1,0 +1,171 @@
+	
+
+
+p{
+	font-family:"Aerial",Verdana,mes New Roman, Times, serif;
+	text-align:justify;
+	padding:20px;
+}
+
+
+body
+ {
+
+background-image:url("bg.jpg");
+background-repeat:repeat;
+  }
+
+
+#footer{
+	
+	
+	background-image:url("footer.jpg");
+	background-repeat:no-repeat;
+	background-position:bottom; 
+	}	
+
+a{
+	font-size:20px;
+	color:black;
+	text-decoration:none;
+	}
+
+
+.eff:hover{
+	background-color:#505050;
+	display:block;
+	color:white;
+	}
+
+#specialtd{
+      font-family:calibri;
+
+        }
+
+table{	
+	width:980px;
+	padding:10px;
+	background-color:white;
+	
+	}
+td{
+	
+	font-family:calibri;
+}
+
+#cright
+	{
+		font-family:"Rockwell",Aerial;
+		font-size:12px;
+}
+
+#form
+	{
+	text-align:left;
+	}
+
+.footer_pos
+	{
+	padding-top:0px;
+	}
+
+
+
+
+#go_pos
+	{
+	
+	padding-right:5px;
+
+	}
+
+
+
+#uni{
+	width:650px;
+	height:366px;
+	background-image:url("s1.jpg");
+	background-repeat:no-repeat;
+	
+	}	
+
+
+#motto
+	{
+	margin-top:50px solid;
+	font-family:"Times New Roman";
+	font-size:22px;
+	text-align:center;
+	}
+.info
+	{
+	font-family:"Sakkal Majalla",Verdana,Times New Roman, Times, serif;
+	text-align:left;
+	color:blue;
+	text-decoration:underline;
+	}
+#describe
+	{
+	
+	font-family:"Aerial",Verdana,Times New Roman, Times, serif;
+	text-align:justify;
+	padding:10px;
+	}
+
+.pic
+	{
+	border-color:blue;
+	border:2px solid;
+}
+.pic_des
+	{
+	height:100px;
+	font-family:"Aerial",Verdana,Times New Roman, Times, serif;
+	font-bold:bold;
+	}
+
+
+.course:hover
+	{
+	background-color:0066FF;
+	display:block;
+	color:white;
+	}
+	
+
+.eve_pic
+	{
+	padding:10px;
+	
+
+	}
+
+
+.event
+	{
+	width:700px;
+	}
+
+h2
+	{
+	font-family:"Verdana",mes New Roman, Times, serif;
+	text-align:left;
+	padding:20px;
+	}
+
+#scholar
+	{
+	text-align:left;
+	}
+.forward
+	{
+	font-family:"Edwardian Script ITC",Palace Script MT,Times New Roman, Times, serif;
+	font-size:35px;
+	padding:40px;
+	}	
+#fo
+	{
+	font-family:"Edwardian Script ITC",Palace Script MT,Times New Roman, Times, serif;
+	font-size:40px;
+	text-align:center;
+}
